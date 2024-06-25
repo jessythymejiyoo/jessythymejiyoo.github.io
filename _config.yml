@@ -114,8 +114,8 @@ analytics:
 author:
   name             : "Jiyoo Min"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "University of Seoul, Department of Computer Science, Undergraduate Student"
-  location         : "South Korea"
+  bio              : "HCAIL Research Intern"
+  location         : "Seoul, Republic of Korea"
   email            : "jiyum0618@gmail.com"
   links:
     - label: "Email"
