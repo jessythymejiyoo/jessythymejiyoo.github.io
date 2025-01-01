@@ -20,7 +20,7 @@ title                    : "jessythymejiyoo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jiyoo Min"
-description              : "An amazing website."
+description              : "Jiyoo's personal website."
 url                      : "https://jessythymejiyoo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
